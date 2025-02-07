@@ -1,8 +1,8 @@
 # 🤖 智能发票提取助手 - AI-Powered Invoice Extractor
 
-> 基于强大的 DeepSeek R1 模型，打造的智能化发票处理工具，让发票信息提取变得简单而准确！
+> 基于强大的 DeepSeek R1 模型，打造的本地化智能化发票处理工具，让发票信息提取变得简单而准确！
 
-> Powered by the powerful DeepSeek R1 Model, making invoice information extraction simple and accurate!
+> Based on the powerful DeepSeek R1 model, we have developed a locally intelligent invoice processing tool that makes invoice information extraction simple and accurate!
 
 [![GitHub](https://img.shields.io/badge/GitHub-Travisma2233-blue?style=flat&logo=github)](https://github.com/Travisma2233)
 
